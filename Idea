@@ -1,0 +1,11 @@
+Efficient Automated Irrigation System
+=====================================
+
+Pre Proposal round: Submission of ‘New Idea’
+Field Crop Varieties Available in India
+Vision: All information regarding Field Crop Varieties in India is available in easily accessible forms catering to the needs of different end users (farmers, researchers, private institutions)
+Mission: To make information regarding Field Crop Varieties readily and freely available in India to all through a tool irrespective of language, literacy, location, asset ownership or any other barriers
+Problem Statement: Proper variety selection is the most important decision a farmer makes. Farmers want and need to grow the best adapted crop cultivars to be successful. But producers do not have the time or the resources to plant several cultivars to determine which are adapted to the best growing conditions and the best available. There is a lack of convenient access to information containing the information about the field crop varieties including the recommended zone of its production released by Indian Government.
+Solution and Benefits: The data sets available with the Data Portal India and contributed by Ministry of Agriculture can be used to build a GIS based map of Field Crop Varieties available in India. This will help to give an idea about the crops which can be cultivated in specific regions of India. The available information can also be helpful for institutions, private firms and other researchers in a timely manner. These crop statistics will enable end users to save costs and be efficient in delivering the desired outputs.
+References:
+[field-crop-varieties](http://data.gov.in/dataset/field-crop-varities-released-during-2010-central-release)
